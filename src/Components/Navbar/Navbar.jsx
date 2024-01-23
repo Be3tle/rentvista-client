@@ -42,7 +42,7 @@ const Navbar = () => {
           </div>
           <a
             href="/"
-            className="btn btn-ghost border-0 text-sm font-medium ml-32 md:ml-0 text-yellow-300"
+            className="btn btn-ghost border-0 text-xl font-bold ml-36 md:ml-0 text-yellow-300"
           >
             RentVista
           </a>
