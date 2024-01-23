@@ -42,7 +42,7 @@ const Navbar = () => {
           </div>
           <a
             href="/"
-            className="btn btn-ghost border-0 text-xl ml-32 md:ml-0 text-yellow-300"
+            className="btn btn-ghost border-0 text-sm font-medium ml-32 md:ml-0 text-yellow-300"
           >
             RentVista
           </a>
@@ -65,7 +65,7 @@ const Navbar = () => {
 
           <a
             href="login"
-            className="bg-yellow-300 hover:bg-yellow-400 px-3 py-1 text-black font-normal rounded-md"
+            className="bg-yellow-300 hover:bg-yellow-400 px-4 py-2 text-black text-sm font-medium rounded-md"
           >
             Login
           </a>
