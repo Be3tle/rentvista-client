@@ -23,7 +23,7 @@ const Banner = () => {
         <div className="relative">
           <img
             src="https://img.freepik.com/free-photo/broker-giving-keys_1098-19812.jpg?w=1800&t=st=1705998891~exp=1705999491~hmac=cc242cc7a3e7843485edadaabba344ca4dc30e7e1227685160e499d4bc0c258b"
-            className=" mt-9 relative md:h-[600px]  sm:h-[500px] h-[300px]   w-[500px] bg-gray-400 rounded-b-full object-cover"
+            className="lg:mt-16 relative md:h-[600px]  sm:h-[500px] h-[300px]   w-[500px] bg-gray-400 rounded-b-full object-cover"
           />
         </div>
       </div>
