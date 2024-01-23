@@ -3,10 +3,10 @@ const Banner = () => {
     <section className="flex min-h-[700px]  w-full items-center justify-center bg-black  px-8">
       <div className="flex w-full max-w-6xl gap-10 lg:flex-row flex-col items-center justify-between">
         <div className="max-w-md md:space-y-6 sm:space-y-5 space-y-4">
-          <h1 className="lg:text-5xl sm:text-4xl text-3xl font-bold leading-tight text-gray-900">
+          <h1 className="lg:text-5xl sm:text-4xl text-3xl font-bold leading-tight text-white">
             Elevate Your Living, Take Your Next Level Home.
           </h1>
-          <p className="lg:text-lg sm:text-base text-sm text-gray-600">
+          <p className="lg:text-lg sm:text-base text-sm text-gray-400">
             Seamless Rentals, Skyrocketing Success: Track, Improve, and Attract
             with Our Powerful Tool.
           </p>
@@ -18,7 +18,7 @@ const Banner = () => {
               Learn More
             </button>
           </div>
-          <p className="text-sm text-gray-500">Trusted by 5000+ Users</p>
+          <p className="text-sm text-gray-400">Trusted by 5000+ Users</p>
         </div>
         <div className="relative">
           <img
